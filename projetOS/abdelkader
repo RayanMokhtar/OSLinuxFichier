@@ -1,0 +1,17 @@
+Partition: abdelkader
+Nombre de blocs par fichier: 10
+Taille du bloc: 512
+;
+
+
+
+
+IDFichier: 0  { 
+NomFichier: johnny,
+Taille: 0,
+Debut: 0,
+DateCreation: 1710504644,
+DateModification: 1710504644,
+ContenuFichier: "",
+
+};
